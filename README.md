@@ -32,5 +32,4 @@ MAU составляет 478M/ Весь мир
 
 ### Источники:
 - https://www.demandsage.com/pinterest-statistics/
-- https://www.bloggersideas.com/ru/pinterest-statistics/
 - https://tengyart.ru/statistika-pinterest-v-2020-informacziya-o-auditorii/?ysclid=lmf3csx7nl463560350
