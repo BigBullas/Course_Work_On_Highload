@@ -14,18 +14,18 @@
 - Создание собственных досок и сохранение в них пинов
 
 ### Целевая аудитория
+MAU составляет 478M/ Весь мир
 
-Распределение трафика по странам мира (ТОП5)
+#### Лучшие страны мира по количеству пользователей Pinterest по состоянию на 2023 год
 
-| **Страна** | **Количество** |
+| **Страна** | **Количество, млн** |
 |------------|----------------|
-| USA | 29.4           |
-| Netherlands | 29             |
-| Belgium | 26.8           |
-| Canada | 25.2           |
-| Portugal | 22.6           |
-
-MAU составляет MAU 478M/ Весь мир
+| USA | 84.6 |
+| Brazil | 28.05 |
+| Mexico | 19.45 |
+| Germany | 15.88 |
+| France | 10.65 |
+| Canada | 8.44 |
 
 Что касатеся целевой аудитории:
 - 55% пользователей составляют люди в возрасте от 18 до 34 лет;
@@ -33,6 +33,5 @@ MAU составляет MAU 478M/ Весь мир
 - Около 70% всех пользователей — женского пола, мужчины используют социальную сеть намного реже (24%);
 
 ### Источники:
-- https://www.statista.com/statistics/1300114/pinterest-penetration-selected-countries-and-territories/
-- https://www.bloggersideas.com/ru/pinterest-statistics/
+- https://www.demandsage.com/pinterest-statistics/
 - https://tengyart.ru/statistika-pinterest-v-2020-informacziya-o-auditorii/?ysclid=lmf3csx7nl463560350
