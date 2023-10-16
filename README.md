@@ -289,8 +289,5 @@ CREATE INDEX idx_pin_categories_pin_id ON Пины_Категории (ID_пин
 - go-clickhouse - коннектор для языка Go, который позволяет взаимодействовать с базой данных ClickHouse  
 - AWS SDK (https://pkg.go.dev/github.com/aws/aws-sdk-go) - Software Development Kit (пакет разработки программного обеспечения), предоставляемый Amazon Web Services (AWS), который позволяет разработчикам взаимодействовать с Amazon S3  
 
-### Балансировка запросов / мультиплексирование подключений
-
-### Схема резервного копирования
 
 
