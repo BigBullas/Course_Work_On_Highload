@@ -263,7 +263,7 @@ CREATE INDEX idx_pin_categories_pin_id ON Пины_Категории (ID_пин
 
 ### Денормализация
 
-Приведена на (ER-диаграмме)[https://drawsql.app/teams/bashkirs/diagrams/copy-of-pinterest]
+Приведена на [ER-диаграмме](https://drawsql.app/teams/bashkirs/diagrams/copy-of-pinterest)
 
 ### Выбор СУБД (потаблично)
 
