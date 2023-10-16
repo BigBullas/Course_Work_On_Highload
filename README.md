@@ -271,7 +271,16 @@ CREATE INDEX idx_pin_categories_pin_id ON Пины_Категории (ID_пин
 - PostgreSQL (реляционная база данных) будем использовать для оставшихся таблиц
 - Amazon S3 (служба хранения данных в облаке) будем использовать для хранения аттачей (изображение, видео) 
 
-### Шардирование и резервирование СУБД (потаблично)
+### Шардирование (потаблично)
+
+ - Pins по pin_id
+ - Users по user_id
+ - Boards по user_id
+ - Comments по pin_id
+ - Reactions_to_pin по pin_id
+ - Reactions_to_comment по pin_id
+ - Board_pins по board_id
+ - Pin_statistics по statistic_id
 
 ### Клиентские библиотеки / интеграции
 
