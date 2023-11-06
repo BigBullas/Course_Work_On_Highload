@@ -198,7 +198,7 @@ Envoy, который способен читать большие измене�
 
 Ссылка на [ER_диаграмму](https://drawsql.app/teams/bashkirs/diagrams/pinterest)
 
-![](./resources/ER_diargamm.png)
+![](./resources/DB.jpg)
 
 ## 6. Физическая схема БД
 
